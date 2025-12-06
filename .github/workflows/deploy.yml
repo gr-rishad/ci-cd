@@ -6,7 +6,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: self-hosted
+    runs-on: ostad-b7
 
     steps:
     - name: Checkout Repo
